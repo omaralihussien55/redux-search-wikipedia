@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/redux-search-wikipedia/static/css/main.e45d86a1.css",
+    "main.js": "/redux-search-wikipedia/static/js/main.d88b43ca.js",
+    "static/js/787.23d0dbd7.chunk.js": "/redux-search-wikipedia/static/js/787.23d0dbd7.chunk.js",
+    "static/media/ph1.png": "/redux-search-wikipedia/static/media/ph1.223f76a516fca7979543.png",
+    "static/media/ph2.png": "/redux-search-wikipedia/static/media/ph2.9f50f48a15c73bc2d19f.png",
+    "index.html": "/redux-search-wikipedia/index.html",
+    "main.e45d86a1.css.map": "/redux-search-wikipedia/static/css/main.e45d86a1.css.map",
+    "main.d88b43ca.js.map": "/redux-search-wikipedia/static/js/main.d88b43ca.js.map",
+    "787.23d0dbd7.chunk.js.map": "/redux-search-wikipedia/static/js/787.23d0dbd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45d86a1.css",
+    "static/js/main.d88b43ca.js"
+  ]
+}
